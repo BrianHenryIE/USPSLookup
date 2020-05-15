@@ -1,5 +1,5 @@
 {
-    "name": "nickcheek/usps-lookup",
+    "name": "nickcheek/uspslookup",
     "type": "library",
     "description": "Php Wrapper for USPS API",
     "keywords": [
